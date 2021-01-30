@@ -30,7 +30,26 @@ _A personal list of recommended readings about computers and stuff_
   
   By Martin Fowler, Kent Beck, John Brant, William Opdyke, Don Roberts  
   Published Mar 9, 2012 by Addison-Wesley Professional  
-  Available at: [InformIT](https://www.informit.com/store/refactoring-improving-the-design-of-existing-code-9780133065275)
+  Available at: [InformIT](https://www.informit.com/store/refactoring-improving-the-design-of-existing-code-9780133065275)  
+  _There's a newer 2018 edition, but I haven't read it yet._
+  
+  <br clear="left">
+  
+#### The C Programming Language, 2nd Edition
+
+  <img src="https://www.informit.com/ShowCover.aspx?isbn=9780131103627&type=f" align="left" width="100">
+  
+  By Brian W. Kernighan, Dennis Ritchie  
+  Published Mar 22, 1988 by Pearson  
+  Available at: [InformIT](https://www.informit.com/store/c-programming-language-9780131103627)
   
   <br clear="left">
 
+#### The Swift Programming Language
+
+  <img src="https://is2-ssl.mzstatic.com/image/thumb/Publication114/v4/3b/3d/65/3b3d65fb-0343-8919-2b10-96d298356d08/cover.jpg/268x0w.jpg" align="left" width="100">
+  
+  Published by Apple  
+  Freely available at: Swift.org [web](https://docs.swift.org/swift-book/), [epub](https://docs.swift.org/swift-book/TheSwiftProgrammingLanguageSwift53.epub)
+  
+  <br clear="left">
