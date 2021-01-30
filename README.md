@@ -10,7 +10,7 @@ _A personal list of recommended readings about computers and stuff_
    **The Pragmatic Programmer: From Journeyman to Master** (original version)  
    By Andrew Hunt, David Thomas  
    Published Oct 20, 1999 by Addison-Wesley Professional  
-   https://www.informit.com/store/pragmatic-programmer-from-journeyman-to-master-9780321770554
+   Available at: [InformIT](https://www.informit.com/store/pragmatic-programmer-from-journeyman-to-master-9780321770554)
    
    <br clear="left">
    
@@ -19,8 +19,8 @@ _A personal list of recommended readings about computers and stuff_
    **The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition** (updated version)  
    By David Thomas, Andrew Hunt  
    Published Sep 13, 2019 by Addison-Wesley Professional  
-   https://www.informit.com/store/pragmatic-programmer-your-journey-to-mastery-20th-anniversary-9780135957059  
-   https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/
+   Available at: [InformIT](https://www.informit.com/store/pragmatic-programmer-your-journey-to-mastery-20th-anniversary-9780135957059),
+   [The Pragmatic Programmers](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
 
    <br clear="left">
 
@@ -30,7 +30,7 @@ _A personal list of recommended readings about computers and stuff_
   
   By Martin Fowler, Kent Beck, John Brant, William Opdyke, Don Roberts  
   Published Mar 9, 2012 by Addison-Wesley Professional  
-  https://www.informit.com/store/refactoring-improving-the-design-of-existing-code-9780133065275
+  Available at: [InformIT](https://www.informit.com/store/refactoring-improving-the-design-of-existing-code-9780133065275)
   
   <br clear="left">
 
