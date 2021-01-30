@@ -49,7 +49,7 @@ _A personal list of recommended readings about computers and stuff_
 
   <img src="https://is2-ssl.mzstatic.com/image/thumb/Publication114/v4/3b/3d/65/3b3d65fb-0343-8919-2b10-96d298356d08/cover.jpg/268x0w.jpg" align="left" width="100">
   
-  Published by Apple  
+  Published Jun 2, 2014 and last updated Sep16, 2020 by Apple  
   Freely available at: Swift.org [web](https://docs.swift.org/swift-book/), [epub](https://docs.swift.org/swift-book/TheSwiftProgrammingLanguageSwift53.epub)
   
   <br clear="left">
