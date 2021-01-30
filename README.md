@@ -12,7 +12,7 @@ _A personal list of recommended readings about computers and stuff_
    Published Oct 20, 1999 by Addison-Wesley Professional  
    https://www.informit.com/store/pragmatic-programmer-from-journeyman-to-master-9780321770554
    
-   <br clear="left">|
+   <br clear="left">
    
    <img src="https://www.informit.com/ShowCover.aspx?isbn=9780135957059&type=f" align="left" width="100">
    
